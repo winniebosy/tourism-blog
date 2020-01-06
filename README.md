@@ -11,5 +11,5 @@ This is a simple tourism blog
 * Responsiveness
 
 
-## Live Demo https://tourism-blog.netlify.com/
+## Live Demo: https://tourism-blog.netlify.com/
 
