@@ -3,7 +3,7 @@ This is a simple tourism blog
 
 
 ## Lessons Learnt
-* HTML5, CSS3,Bulma CSS, JS [ ES6 functions and methods]
+* JS [ ES6 functions and methods],HTML5, CSS3,Bulma CSS, 
 * Media Queries
 * Responsiveness
 
